@@ -1,0 +1,158 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+h1 {
+    font-size: 5.5rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Montserrat', sans-serif;
+}
+h2 {
+    font-size: 2.5rem;
+    font-family: 'Staatliches', cursive;
+    font-weight: normal;
+}
+h3 {
+    font-size: 2rem;
+    font-family: 'Staatliches', cursive;
+}
+.top-container {
+    background-color: #e4f9f5;
+    width: 100vw;
+    height: 90vh;
+    position: relative;
+    padding-top: 100px;
+}
+    .a-killa {
+    font-size: 2rem;
+    font-weight: bold;
+}
+    .top-cloud-pic {
+    position: absolute;
+    left: 580px;
+    top: 470px
+}
+    .bottom-cloud-pic {
+    position: absolute;
+    right: 640px;
+    top: 410px;
+}
+    .mountain-pic {
+    position: absolute;
+    top: 36rem;
+    right: 43rem;
+    left: 43rem;
+}
+    .snowboarder-pic {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    top: 670px;
+    right: 700px;
+}
+    .sun-pic {
+    position: absolute;
+    height: 70px;
+    width: 70px;
+    top: 550px;
+    left: 770px;
+}
+    .skill-row {
+    width: 50%;
+    margin: 100px auto 150px auto;
+    text-align: left;
+}
+    .profile {
+    padding-bottom: 50px;
+}
+.middle-container {
+    padding-top: 50px;
+    line-height: 1;
+}
+    .contents {
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+    .deaf-pic {
+    width: 20%;
+}
+    .hisashi {
+    color: darksalmon;
+}
+    .office-pic {
+    width: 1905px;
+    height: 500px;
+    object-fit: cover;
+}
+    .myskill {
+    color: darkcyan;
+    font-size: 3.5rem;
+    margin: 50px auto 140px auto;
+}
+    .team-pic {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+    .qa-pic {
+    width: 25%;
+    float: right;
+    margin-left: 0px;
+    text-align: center;
+}
+hr {
+    border-style: dashed;
+    width: 70%;
+}
+.bottom-container {
+    margin: auto 10% auto 6%;
+}
+    .contact-me {
+        margin-bottom: 20px;
+        padding-top: 50px;
+        padding-bottom: 5px;
+        line-height: 2;
+}
+    .getin {
+        color: #03506f;
+        padding-bottom: 50px;
+        margin-top: 50px;
+}
+    .telephone-pic {
+        float: left;
+        margin: 0 20px 50px 200px;
+        width: 800px;
+        height: 500px;
+        object-fit: cover;
+    }
+    .bottom-contact {
+        font-size: 20px;
+        margin-top: 100px;
+        text-decoration: none;
+        color: #03506f;
+}
+    .kontakt {
+        display: inline;
+    }
+    .footer-link {
+        font-size: 25px;
+        font-style: none;
+        text-decoration: none;
+}
+    .linkedin-pic {
+        height: 30px;
+        width: 30px;
+        margin-bottom: -4px;
+    }
+    .instagram-pic {
+        alignment-baseline: auto;
+        height: 25px;
+        width: 25px;
+        margin-left: 10px;
+        margin-bottom: -2px;
+    }
+    .mo {
+        float: bottom;
+        margin-top: 150px;
+    }
